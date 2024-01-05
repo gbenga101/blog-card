@@ -70,12 +70,16 @@ body{
     width: 60%;
     justify-content: space-between;
   }
-  .author > img{
+  .author img{
     height: 64px;
     border-radius: 50%;
   }
   .author > p{
     font-weight: bold;
+    margin: auto 0;
+  }
+  .author > p:hover{
+    transform: rotate(-5deg);
   }
   .attribution { 
     font-size: 11px; 
@@ -84,4 +88,25 @@ body{
     }
   .attribution a {
     color: hsl(228, 45%, 44%); 
+    }
+/*Moving to Mobile screen*/
+    @media screen and (max-width: 375px){
+        body{
+            width: 100%;
+        }
+        .content{
+            width: 300px;
+        }
+        .img img{
+            box-sizing: border-box;
+            width: 100%;
+        }
+        .header{
+            font-size: 1.2rem;
+            width: 100%;
+        }
+        .author{
+            width: 70%;
+            font-size: 14px;
+        }
     }
