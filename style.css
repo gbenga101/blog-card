@@ -46,6 +46,9 @@ body{
   .botton:hover{
     transform: rotate(5deg);
   }
+  .botton:focus{
+    transform: rotate(5deg);
+  }
   .publish{
     font-size: 0.8rem;
     letter-spacing: 0.01rem;
