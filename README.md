@@ -31,8 +31,8 @@ Above are the screenshot of both Desktop and Mobile solution
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://gbenga101.github.io/blog-card/)
+- Solution URL: [Project solution URL](https://www.frontendmentor.io/solutions/blogpreview-card-solution-using-html-and-css-only-ua4ddpJtu5)
+- Live Site URL: [project live-site URL](https://gbenga101.github.io/blog-card/)
 
 ## My process
 I'm through with this project
