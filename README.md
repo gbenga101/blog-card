@@ -32,7 +32,7 @@ Above are the screenshot of both Desktop and Mobile solution
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://gbenga101.github.io/blog-card/)
 
 ## My process
 I'm through with this project
@@ -80,7 +80,7 @@ First of all, I need to dedicate time (daily) to keep practicing and working on 
 
 - LinkedIn - [@gbengafagbero] (https://www.linkedin.com/in/gbenga-fagbenro)
 - GitHub - [@gbenga101](https://github.com/gbenga101)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@gbenga101](https://www.frontendmentor.io/profile/gbenga101)
 - Twitter - [@gbengafagbenro](https://www.twitter.com/FagbenroGbengaH)
 
 
